@@ -5,3 +5,5 @@ From conception to completion, base program (consisting of data clean up, histog
 
 Aggregated, cleansed, and combined data from public data sources for analysis with MS SQL, having only started learning SQL less than 2 weeks prior.
 
+### Running the Program
+To run the main program, only the "UGA Animated Salaries.ipynb" and "SalaryComp.csv" files need to be downloaded.
